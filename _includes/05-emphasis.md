@@ -1,1 +1,11 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# <h2> Ways to Cook Shrimp
+  
+  * **pan fried**
+  * **deep** fried
+  * _stir-fried_
+  * soup
+  * stew
+  * **gumbo**
+  * kabob
+  * _boil_
+  * _bake_
