@@ -1,7 +1,7 @@
 # <h2> Ways to Cook Shrimp
   
   * ___pan fried___
-  * __deep__ _fried_
+  * __deep fried__
   * _stir-fried_
   * soup
   * stew
