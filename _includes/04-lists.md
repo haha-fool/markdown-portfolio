@@ -1,12 +1,12 @@
 # <h2> Ways to Cook Shrimp
   
-  * pan fried
-  * deep fried
-  * stir-fried
+  * ___pan fried___
+  * __deep__ _fried_
+  * _stir-fried_
   * soup
   * stew
-  * gumbo
+  * __gumbo__
   * kabob
-  * boil
-  * bake
+  * _boil_
+  * _bake_
   
